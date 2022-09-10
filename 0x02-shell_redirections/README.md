@@ -1,3 +1,4 @@
 #Shell Redirections
 
-0-hello_world => creating a file to print hello world
+0-hello_world
+1-comfused_smiley
