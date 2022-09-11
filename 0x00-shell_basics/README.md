@@ -1,2 +1,2 @@
 #shell Basics
-0-current_working_directory
+All tasks were commited at once to save time.
